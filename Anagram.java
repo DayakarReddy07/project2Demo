@@ -1,4 +1,7 @@
+
 // This is the new way to check strings are anagrams or not.
+// Add new feature
+
 import java.util.Arrays;
 
 /*
