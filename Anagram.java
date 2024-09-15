@@ -1,4 +1,4 @@
-
+// This is the new way to check strings are anagrams or not.
 import java.util.Arrays;
 
 /*
